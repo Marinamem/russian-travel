@@ -12,4 +12,4 @@
 
 #### GitHub
 
-Мой проект на github https://github.com/Marinamem/russian-travel.gits
+Мой проект на github https://marinamem.github.io/russian-travel/
