@@ -17,7 +17,7 @@
 .cover__background::before {
   content: "";
   background: #2a2c2f;
-  opacity: 0.4;
+  opacity: 0.3;
   position: absolute;
   top: 0;
   right: 0;
@@ -28,7 +28,7 @@
 }
 
 .cover__background:hover::before {
-  opacity: 0.8;
+  opacity: 75%;
 }
 
 @media (max-width: 1024px) {

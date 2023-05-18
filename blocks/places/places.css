@@ -20,7 +20,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 580px) {
   .places {
     max-width: 100%;
     padding-top: 0;
