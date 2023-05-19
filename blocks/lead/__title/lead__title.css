@@ -10,7 +10,7 @@
   text-align: center;
   text-rendering: optimizeLegibility;
 }
-@media (max-width: 695px) {
+@media (max-width: 700px) {
   .lead__title {
     font-size: 60px;
     line-height: 1.1;
