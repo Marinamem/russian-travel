@@ -8,8 +8,9 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   .intro__content {
     max-width: 288px;
+    margin: 0 auto;
   }
 }
