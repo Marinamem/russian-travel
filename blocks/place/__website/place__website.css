@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 660px) {
   .place__website {
     max-width: calc(100% - 32px);
     padding-left: 16px;
